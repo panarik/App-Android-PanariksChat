@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331573684588",
+    "firebase_url": "https://panariks-chat.firebaseio.com",
+    "project_id": "panariks-chat",
+    "storage_bucket": "panariks-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331573684588:android:3645991010994585ad6b49",
+        "android_client_info": {
+          "package_name": "com.github.panarik.panarikschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331573684588-q9p0rm2ptt04pggbp13tm7u4anfue91q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.panarik.panarikschat",
+            "certificate_hash": "ff6b6e5ae0a3915bba7cd2e7d10e7648c1168425"
+          }
+        },
+        {
+          "client_id": "331573684588-8kf8or5rn1jauslnlusepnii2svfqupm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3Gr6Ot1rTt8Kj9OlLcwUrkZXfhV2SCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331573684588-8kf8or5rn1jauslnlusepnii2svfqupm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
